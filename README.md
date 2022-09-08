@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there
 
 <!--
 **perstraine/perstraine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm perstraine (Prashant Kumar)
+
+I'm a Full Stack Developer. I recently recieved a Full Stack Developer certificate from Mission Ready.
+
+:books: Graduated with a BSC from University of Auckland, majoring in Computer Science, and also focusing on Mathematics
+
+:computer: Currently Level 5 Advanced Software Development at Mission Ready, and Harvard CS50 online course
+
+:satellite: Currently Looking for work in Software/Full-Stack Development
+
+:8ball: My Hobbies are playing Chess and making desserts
+
+:mailbox: Contact me @ prashant.k8427@gmail.com
