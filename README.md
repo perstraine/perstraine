@@ -25,6 +25,10 @@ I'm a Full Stack Developer. I recently recieved a Full Stack Developer certifica
 
 :satellite: Currently Looking for work in Software/Full-Stack Development
 
+Some Projects I have worked on:
+ - [Metro NZ Redesign](https://github.com/perstraine/mission6b)
+ - [Turner's Cars Redesign](https://github.com/perstraine/Mission5)
+
 :8ball: My Hobbies are playing Chess and making desserts
 
 :mailbox: Contact me @ prashantk-@outlook.com
