@@ -27,4 +27,4 @@ I'm a Full Stack Developer. I recently recieved a Full Stack Developer certifica
 
 :8ball: My Hobbies are playing Chess and making desserts
 
-:mailbox: Contact me @ prashant.k8427@gmail.com
+:mailbox: Contact me @ prashantk-@outlook.com
