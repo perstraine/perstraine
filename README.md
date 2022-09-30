@@ -31,5 +31,4 @@ Some Projects I have worked on:
 
 :8ball: My Hobbies are playing Chess and making desserts
 
-:mailbox: Contact me @ prashantk-@outlook.com
-          LinkedIn   @ [Prashant](https://www.linkedin.com/in/prashant-kumar-5a7901171/)
+:mailbox: Contact me @ prashantk-@outlook.com or on [LinkedIn](https://www.linkedin.com/in/prashant-kumar-5a7901171/)
