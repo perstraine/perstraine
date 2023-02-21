@@ -23,7 +23,7 @@ I'm a Full Stack Developer. I recently recieved a Full Stack Developer certifica
 
 :computer: Completed Advanced Developer Course in Mission Ready
 
-:hammer: Currently working on a project for Native Software
+:hammer: Currently working on a casual contract with SRS Engineering
 
 :satellite: Currently Looking for work in Software/Full-Stack Development
 
