@@ -23,13 +23,12 @@ I'm a Full Stack Developer. I recently recieved a Full Stack Developer certifica
 
 :computer: Completed Advanced Developer Course in Mission Ready
 
-:hammer: Currently working on a casual contract with SRS Engineering
+:hammer: Currently working as a freelance developer
 
 :satellite: Currently Looking for work in Software/Full-Stack Development
 
-Some Projects I have worked on:
- - [Metro NZ Redesign](https://github.com/perstraine/mission6b)
- - [Turner's Cars Redesign](https://github.com/perstraine/Mission5)
+A Project I have worked on:
+ - [SRS Engineering](https://www.srsengineering.co.nz/)
 
 :8ball: My Hobbies are playing Chess and making desserts
 
