@@ -27,9 +27,6 @@ I'm a Full Stack Developer. I recently recieved a Full Stack Developer certifica
 
 :satellite: Currently Looking for work in Software/Full-Stack Development
 
-A Project I have worked on:
- - [SRS Engineering](https://www.srsengineering.co.nz/)
-
 :8ball: My Hobbies are playing Chess and making desserts
 
 :mailbox: Contact me @ prashantk-@outlook.com or on [LinkedIn](https://www.linkedin.com/in/prashant-kumar-5a7901171/)
